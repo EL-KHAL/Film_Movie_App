@@ -1,6 +1,5 @@
 {
-  "homepage": "https://EL-KHAL.github.io/film_movie_app",
-  "name": "khalo-movies",
+  "name": "film_movie_app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
