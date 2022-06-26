@@ -5,13 +5,13 @@
 Clone the project
 
 ```bash
-  git clone 
+  git clone https://github.com/EL-KHAL/film_movie_app.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd film_movie_app
 ```
 
 Install dependencies
@@ -23,5 +23,5 @@ Install dependencies
 Start the server
 
 ```bash
-  npm run start
+  npm start ya khali
 ```
